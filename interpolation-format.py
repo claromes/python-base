@@ -10,7 +10,7 @@ Click and buy: {link}
 
 Only {quantity:d} in stock.
 
-Price $ {price:.2f}.
+Price \N{fire} $ {price:.2f}.
 """
 
 clients = ["Bruno", "Clarissa", "Maria"]
